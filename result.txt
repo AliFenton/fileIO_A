@@ -1,0 +1,15 @@
+
+average characters per word: 0.000317135
+4194313 words have the of length 1
+1900574 words have the of length 2
+6 words have the of length 3
+5 words have the of length 4
+64 words have the of length 5
+1 words have the of length 6
+64 words have the of length 7
+0 words have the of length 8
+64 words have the of length 9
+0 words have the of length 10
+504 words have the of length 11 or longer
+The total number of words in this file is 3670358
+
